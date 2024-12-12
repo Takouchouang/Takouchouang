@@ -7,6 +7,9 @@
 ## 🛠 Technologies & Outils
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch)
+![Neo4j](https://img.shields.io/badge/Neo4j-lightblue?style=flat&logo=neo4j)
+![DBgraph](https://img.shields.io/badge/DBgraph-gray?style=flat)
 
 
 <!---
