@@ -12,7 +12,9 @@
 ![DBgraph](https://img.shields.io/badge/DBgraph-gray?style=flat)
 
 
-<!---
-Takouchouang/Takouchouang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🌟 Ce dépôt est maintenu par [Takouchouang](https://github.com/Takouchouang).  
+✨ Découvrez mes autres projets sur [GitHub](https://github.com/Takouchouang).  
+📫 Contactez-moi : [LinkedIn](https://www.linkedin.com/in/takouchouang-fraisse-sacre-a0761a312/)
+
