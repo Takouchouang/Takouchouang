@@ -10,7 +10,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch)
 ![Neo4j](https://img.shields.io/badge/Neo4j-lightblue?style=flat&logo=neo4j)
 ![DBgraph](https://img.shields.io/badge/DBgraph-gray?style=flat)
-
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
 
 ---
 
