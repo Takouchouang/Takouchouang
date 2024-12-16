@@ -8,15 +8,10 @@
 
 Voici une sélection des technologies que j'utilise pour construire des solutions de *Vision par Ordinateur* et d'Intelligence Artificielle de pointe :
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch)  
-![Neo4j](https://img.shields.io/badge/Neo4j-lightblue?style=flat&logo=neo4j)  
-![DBgraph](https://img.shields.io/badge/DBgraph-gray?style=flat)  
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  
-![LangChain](https://img.shields.io/badge/LangChain-lightgreen?style=flat&logo=python)
-
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch)  
+![Neo4j](https://img.shields.io/badge/Neo4j-lightblue?style=flat&logo=neo4j) ![DBgraph](https://img.shields.io/badge/DBgraph-gray?style=flat) ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript) ![LangChain](https://img.shields.io/badge/LangChain-lightgreen?style=flat&logo=python)
+ 
 ## 💡 Domaines d'expertise
 
 - **Intelligence Artificielle** : Conception de modèles de reconnaissance d'images et d'interaction humaine-machine utilisant des réseaux de neurones profonds.
