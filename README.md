@@ -45,7 +45,7 @@ Développement d'un agent conversationnel exploitant les données *RDF Cubes* po
 
 Le **graphe de connaissances d'activité** montre l'interconnexion entre mes projets, mes outils et mes compétences. Il illustre comment chaque technologie ou projet est lié à un autre, afin de maximiser les synergies dans mes recherches.
 
-- **Langues des Signes (Reconnaissance)** ⇄ **Mediapipe** ⇄ **TensorFlow / PyTorch**
+- **Langues des Signes ** ⇄ **Mediapipe** ⇄ **TensorFlow / PyTorch**
 - **Graph Neural Networks** ⇄ **Neo4j / DBgraph** ⇄ **Recommandation de Contenu / Analyse Relationnelle**
 - **LangChain** ⇄ **Automatisation des Processus / IA et Dialogue**
 
