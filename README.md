@@ -21,7 +21,7 @@ Voici une sélection des technologies que j'utilise pour construire des solution
 - **Intelligence Artificielle** : Conception de modèles de reconnaissance d'images et d'interaction humaine-machine utilisant des réseaux de neurones profonds.
 - **Vision par Ordinateur** : Développement de solutions innovantes de reconnaissance de gestes, de tracking de mouvements, et d'analyse de données visuelles en temps réel.
 - **Langage Naturel et Dialogue Automatisé** : Création d'agents intelligents utilisant des modèles de langage tels que **LangChain** pour automatiser des tâches et améliorer l'interaction avec les utilisateurs.
-- **Graph Neural Networks (GNN)** : Exploration des *Graph Neural Networks* pour des applications avancées en traitement de graphes, recommandation, et intelligence relationnelle à travers les réseaux de données complexes.
+- **Graph Neural Networks (GNN)** : Exploration des **Graph Neural Networks** pour des applications avancées en traitement de graphes, recommandation, et intelligence relationnelle à travers les réseaux de données complexes.
 
 ---
 
