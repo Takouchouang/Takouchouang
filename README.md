@@ -28,7 +28,7 @@ Voici une sélection des technologies que j'utilise pour construire des solution
 ## 🌐 Projets en cours
 
 ### Reconnaissance des Langues des Signes
-Un projet visant à créer une solution IA capable de reconnaître et traduire les signes de la langue des signes en temps réel, en utilisant *Mediapipe*, *TensorFlow*, et *PyTorch*.  
+Un projet visant à créer une solution IA capable de reconnaître et traduire les signes de la langue des signes en temps réel, en utilisant **Mediapipe**, **TensorFlow**, et **PyTorch**.  
 
 ### Création d'un Agent Conversationnel avec LangChain et RDF Cubes
 Développement d'un agent conversationnel exploitant les données **RDF Cubes** pour analyser et générer des réponses basées sur des modèles de données avancés. Ce projet illustre l'intégration des frameworks modernes comme **LangChain** avec des structures sémantiques complexes pour optimiser les interactions utilisateur.
