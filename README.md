@@ -1,6 +1,6 @@
 # Bonjour 👋, je me presente Takouchouang Fraisse Sacre !
 
-- 🔭 **Actuellement** : Recherche et développement dans le domaine de la **Reconnaissance des Langues des Signes** en Intelligence Artificielle , L'apprentissage profond et **Vision par Ordinateur**.
+- 🔭 **Actuellement** : Recherche et développement dans le domaine de la **Reconnaissance des Langues des Signes** en Intelligence Artificielle , **L'apprentissage profond** et **Vision par Ordinateur**.
 - 🌱 **En cours d'apprentissage** : Maîtrise des technologies **Streamlit** et **Mediapipe** pour améliorer l'interactivité et l'efficacité des applications de vision par ordinateur.
 - 📫 **Contactez-moi** : Vous pouvez me trouver sur [LinkedIn](https://www.linkedin.com/in/takouchouang-fraisse-sacre-a0761a312/) pour toute collaboration ou pour échanger sur des projets innovants.
 
