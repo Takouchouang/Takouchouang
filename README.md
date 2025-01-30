@@ -8,7 +8,7 @@
 
 ## 🛠 Technologies & Outils
 
-Voici une sélection des technologies que j'utilise pour construire des solutions de **Vision par Ordinateur** et d'Intelligence Artificielle de pointe :
+Voici une sélection des technologies que j'utilise pour construire des solutions de **Vision par Ordinateur** et **d'Intelligence Artificielle** de pointe :
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)  ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch)  
 ![Neo4j](https://img.shields.io/badge/Neo4j-lightblue?style=flat&logo=neo4j) ![DBgraph](https://img.shields.io/badge/DBgraph-gray?style=flat) ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
