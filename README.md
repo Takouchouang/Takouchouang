@@ -190,7 +190,7 @@ Le **graphe de connaissances d'activité** montre l'interconnexion entre mes pro
   - Université Nationale du Vietnam, Hanoï
   - Université de La Rochelle, France
   (En cours)
-- **Licence en Informatique** - Université de XYZ (20XX-20XX)
+- **Licence en Informatique** - Ecole Nationale Superieur Et Polytechnique de Maroua (2022-2023)
 
 ---
 
@@ -202,24 +202,6 @@ Le **graphe de connaissances d'activité** montre l'interconnexion entre mes pro
 - Langue des Signes Française (En apprentissage)
 
 ---
-
-## 📌 Projets Épinglés
-
-<div align="center">
-  <a href="https://github.com/Takouchouang/sign-language-recognition">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takouchouang&repo=sign-language-recognition&theme=radical" />
-  </a>
-  <a href="https://github.com/Takouchouang/langchain-agent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takouchouang&repo=langchain-agent&theme=radical" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Takouchouang&label=Profile%20views&color=blueviolet&style=flat-square" alt="Compteur de vues du profil" />
-</div>
-
 ---
 
 <div align="center">
