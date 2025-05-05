@@ -202,7 +202,6 @@ Le **graphe de connaissances d'activité** montre l'interconnexion entre mes pro
 - Langue des Signes Française (En apprentissage)
 
 ---
----
 
 <div align="center">
   🌟 <strong>Ce dépôt est maintenu par</strong> <a href="https://github.com/Takouchouang">Takouchouang</a>.<br>
