@@ -1,7 +1,7 @@
 # Bonjour 👋, je me présente Takouchouang Fraisse Sacré !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A63DF7&width=435&lines=Étudiant+en+Master;Machine+Learning;Vision+par+Ordinateur;Reconnaissance+des+Langues+des+Signes;Intelligence+Artificielle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A63DF7&width=435&lines=Étudiant+en+Master;Machine+Learning;Deep+Learning;Vision+par+Ordinateur;Intelligence+Artificielle" alt="Typing SVG" />
 </div>
 
 <div align="center">
