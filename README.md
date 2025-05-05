@@ -1,8 +1,30 @@
-# Bonjour 👋, je me presente Takouchouang Fraisse Sacre !
+# Bonjour 👋, je me présente Takouchouang Fraisse Sacré !
 
-- 🔭 **Actuellement** : Recherche et développement dans le domaine de la **Reconnaissance des Langues des Signes** en **Intelligence Artificielle** , **L'apprentissage profond** et **Vision par Ordinateur**.
+- 🔭 **Actuellement** : Recherche et développement dans le domaine de la **Reconnaissance des Langues des Signes** en **Intelligence Artificielle**, **L'apprentissage profond** et **Vision par Ordinateur**.
 - 🌱 **En cours d'apprentissage** : Maîtrise des technologies **Streamlit** et **Mediapipe** pour améliorer l'interactivité et l'efficacité des applications de **vision par ordinateur**.
-- 📫 **Contactez-moi** : Vous pouvez me trouver sur [**LinkedIn**]**(https://www.linkedin.com/in/takouchouang-fraisse-sacre-a0761a312/)** pour toute collaboration ou pour échanger sur des **projets innovants**.
+- 📫 **Contactez-moi** : Vous pouvez me trouver sur [**LinkedIn**](https://www.linkedin.com/in/takouchouang-fraisse-sacre-a0761a312/) pour toute collaboration ou pour échanger sur des **projets innovants**.
+
+---
+
+## 📊 Statistiques GitHub & Commits
+
+### Statistiques générales
+[![Statistiques GitHub de Takouchouang](https://github-readme-stats.vercel.app/api?username=Takouchouang&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Activité de commits
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Takouchouang&theme=radical)](https://git.io/streak-stats)
+
+### Graphique de commits
+[![Graphique d'activité](https://activity-graph.herokuapp.com/graph?username=Takouchouang&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Calendrier de commits
+[![Commits Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takouchouang&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### Langages les plus utilisés
+[![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Takouchouang&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Statistiques hebdomadaires
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Takouchouang&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
