@@ -196,9 +196,7 @@ Le **graphe de connaissances d'activité** montre l'interconnexion entre mes pro
 
 - Français (**Natif**)
 - Anglais (**Professionnel**)
-- Allemand (Intermédiaire)
-- Langue des Signes Française (En apprentissage)
-
+- Allemand (**Intermédiaire**)
 ---
 
 <div align="center">
