@@ -187,7 +187,7 @@ Le **graphe de connaissances d'activité** montre l'interconnexion entre mes pro
 - **Master en Systèmes Intelligents et Multimédias** - Double diplôme:
   - Université Nationale du Vietnam, Hanoï
   - Université de La Rochelle, France
-  (En cours)
+  (**En cours**)
 - **Licence en Informatique** - Ecole Nationale Superieur Et Polytechnique de Maroua - Cameroun (2022-2023)
 
 ---
