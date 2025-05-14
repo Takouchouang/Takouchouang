@@ -188,7 +188,7 @@ Le **graphe de connaissances d'activité** montre l'interconnexion entre mes pro
   - Université Nationale du Vietnam, Hanoï
   - Université de La Rochelle, France
   (**En cours**)
-- **Licence en Informatique** - Ecole Nationale Superieur Et Polytechnique de Maroua - Cameroun (2022-2023)
+- **Licence en Informatique** - Ecole Nationale Superieur Et Polytechnique de Maroua - Cameroun (**2022-2023**)
 
 ---
 
