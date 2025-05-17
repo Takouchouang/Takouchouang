@@ -184,7 +184,7 @@ Le **graphe de connaissances d'activité** montre l'interconnexion entre mes pro
 
 ## 🎓 Formation
 
-- **Master en Systèmes Intelligents et Multimédias** - Double diplôme:
+- **Master en Systèmes Intelligents et Multimédias** - Double diplôme :
   - Université Nationale du Vietnam, Hanoï
   - Université de La Rochelle, France
   (**En cours**)
