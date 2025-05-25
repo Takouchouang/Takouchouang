@@ -14,7 +14,7 @@
 - 🎓 Étudiant en master en **Systèmes Intelligents et Multimédias** en double diplomation à l'**Université Nationale du Vietnam**, **Hanoï** et l'**Université de La Rochelle**, **France**.
 - 📚 Je développe des projets pratiques pour approfondir mes compétences en :
   - **Réseaux de neurones profonds** (**CNN**,**RNN**, etc.)
-  - Vision par ordinateur (**détection** et **segmentation d'objets**, **OCR**, etc.)
+  - Vision par ordinateur (**détection** et **segmentation d'objets**, **OCR**, **etc**.)
 - 🔭 **Actuellement** : Recherche et développement dans le domaine de la **Reconnaissance des Langues des Signes** en utilisant l'**Intelligence Artificielle**.
 - 🌱 **En cours d'apprentissage** : Maîtrise des technologies **Streamlit** et **Mediapipe** pour améliorer l'interactivité et l'efficacité des applications de **vision par ordinateur**.
 - 👯 **Intéressé par** : Collaborations sur des projets combinant **Vision par Ordinateur** et **Accessibilité**.
