@@ -11,7 +11,7 @@
 
 ## 🚀 À propos de moi
 
-- 🎓 Étudiant en master en **Systèmes Intelligents et Multimédias** en double diplomation à l'**Université Nationale du Vietnam**, **Hanoï** et l'**Université de La Rochelle**, **France**.
+- 🎓 Étudiant en Master en **Systèmes Intelligents et Multimédias** en double diplomation à l'**Université Nationale du Vietnam**, **Hanoï** et l'**Université de La Rochelle**, **France**.
 - 📚 Je développe des projets pratiques pour approfondir mes compétences en :
   - **Réseaux de neurones profonds** (**CNN**,**RNN**, **etc**.)
   - Vision par ordinateur (**détection** et **segmentation d'objets**, **OCR**, **etc**.)
