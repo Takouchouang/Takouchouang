@@ -20,7 +20,7 @@
 - 👯 **Intéressé par** : Collaborations sur des **projets** combinant **Vision par Ordinateur** et **Accessibilité**.
 - 💬 **Demandez-moi** : Tout sur les **Graph Neural Networks**, la **Vision par Ordinateur** ou **l**'**IA appliquée à l'accessibilité**.
 - 📫 **Contactez-moi** : Via [**LinkedIn**](https://www.linkedin.com/in/takouchouang-fraisse-sacre-a0761a312/) ou par **email**.
-- ⚡ **Passion** : Améliorer l'accessibilité par la technologie, j'apprends aussi la langue des signes pour mieux comprendre les besoins des utilisateurs de mes applications.
+- ⚡ **Passion** : **Améliorer l'accessibilité par la technologie**, j'apprends aussi la langue des signes pour mieux comprendre les besoins des utilisateurs de mes applications.
 
 ---
 
