@@ -17,7 +17,7 @@
   - Vision par ordinateur (**détection** et **segmentation d'objets**, **OCR**, **etc**...)
 - 🔭 **Actuellement** : Je Fais mon Stage avec le laboratoire : **LIRE** dans le domaine de l'analyse de donnée plus Principalement sur les **Séries Temporelles** en utilisant l'**Intelligence Artificielle**.
 - 🌱 **En cours d'apprentissage** : Maîtrise des technologies **Streamlit** et **Mediapipe** pour améliorer **l'interactivité** et l'efficacité des applications de **vision par ordinateur**.
-- 👯 **Intéressé par** : Collaborations sur des **projets** combinant **Vision par Ordinateur** et **Accessibilité**.
+- 👯 **Intéressé par** : Collaborations sur des **projets** combinant **Vision par Ordinateur** et **les Series Temporelles**.
 - 💬 **Demandez-moi** : Tout sur les **Graph Neural Networks**, la **Vision par Ordinateur** ou **les Series Temporelles**.
 - 📫 **Contactez-moi** : Via [**LinkedIn**](https://www.linkedin.com/in/takouchouang-fraisse-sacre-a0761a312/) ou par **email**.
 - ⚡ **Passion** : **Améliorer l'accessibilité par la technologie**, j'apprends aussi la langue des signes pour mieux comprendre les besoins des utilisateurs de mes applications.
