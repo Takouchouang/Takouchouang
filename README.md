@@ -15,7 +15,7 @@
 - 📚 Je développe des projets pratiques pour approfondir mes compétences en :
   - **Réseaux de neurones profonds** (**CNN**,**RNN**, **etc**.)
   - Vision par ordinateur (**détection** et **segmentation d'objets**, **OCR**, **etc**...)
-- 🔭 **Actuellement** : **Je Fais mon Stage avec le laboratoire : **LIRE** dans le domaine de l'analyse de donnée plus Principalement les **Série Temporelles** en utilisant l'**Intelligence Artificielle**.
+- 🔭 **Actuellement** : Je Fais mon Stage avec le laboratoire : **LIRE** dans le domaine de l'analyse de donnée plus Principalement les **Séries Temporelles** en utilisant l'**Intelligence Artificielle**.
 - 🌱 **En cours d'apprentissage** : Maîtrise des technologies **Streamlit** et **Mediapipe** pour améliorer **l'interactivité** et l'efficacité des applications de **vision par ordinateur**.
 - 👯 **Intéressé par** : Collaborations sur des **projets** combinant **Vision par Ordinateur** et **Accessibilité**.
 - 💬 **Demandez-moi** : Tout sur les **Graph Neural Networks**, la **Vision par Ordinateur** ou **l**'**IA appliquée à l'accessibilité**.
