@@ -53,11 +53,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Takouchouang&theme=radical" alt="Temps productif" />
 </div>
 
-### 📈 Contribution Graph
-
-[![Graphique d'activité](https://activity-graph.herokuapp.com/graph?username=Takouchouang&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 🛠️ Technologies & Outils
 
