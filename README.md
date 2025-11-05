@@ -23,6 +23,21 @@
 - ⚡ **Passion** : **Améliorer l'accessibilité par la technologie**, j'apprends aussi la langue des signes pour mieux comprendre les besoins des utilisateurs de mes applications.
 
 ---
+## 🧠 Publications Scientifiques
+
+### 📝 Reconnaissance Automatique des Langues des Signes : Une Approche Hybridée CNN-LSTM Basée sur Mediapipe
+
+- **Auteur :** Takouchouang Fraisse Sacré  
+- **Prépublication :** [![DOI](https://img.shields.io/badge/arXiv-10.48550%2FarXiv.2510.22011-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://doi.org/10.48550/arXiv.2510.22011)  
+- **Résumé :**  
+  Ce travail propose un système de **reconnaissance automatique des langues des signes** reposant sur une architecture **hybride CNN-LSTM**, exploitant **Mediapipe** pour l’extraction des points clés gestuels.  
+  Le modèle, implémenté avec **TensorFlow** et **Streamlit**, atteint une **précision moyenne de 92 %**, notamment sur les gestes distincts tels que « Bonjour » et « Merci ».  
+  Ces résultats démontrent le potentiel de cette approche pour améliorer l’**accessibilité numérique** et la **communication entre sourds et entendants**.
+---
+
+
+
+
 
 ## 📊 Statistiques GitHub & Commits
 
