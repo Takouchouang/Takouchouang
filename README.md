@@ -23,7 +23,7 @@
 - ⚡ **Passion** : **Améliorer l'accessibilité par la technologie**, j'apprends aussi la langue des signes pour mieux comprendre les besoins des utilisateurs de mes applications.
 
 ---
-## 🧠 Publications Scientifiques
+## Publications Scientifiques
 
 ### 📝 Reconnaissance Automatique des Langues des Signes : Une Approche Hybridée CNN-LSTM Basée sur Mediapipe
 
