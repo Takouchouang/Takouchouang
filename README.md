@@ -156,12 +156,6 @@
   </table>
 </div>
 
-### **Article à paraître**
-- **Titre provisoire :** **Reconnaissance des Langues des Signes** : **Défis et Opportunités**  
-- **Résumé :** Cet article explore les approches modernes pour la reconnaissance des langues des signes en utilisant des technologies telles que **Mediapipe** et **PyTorch**. Il met en avant les défis rencontrés dans l'analyse des gestes et propose des solutions basées sur les réseaux de neurones **CNN**(*Convolutional Neural Network*)-**LSTM**(*Long short Time Memory*).  
-- **Statut :** Actuellement en rédaction.  
-**Restez connecté pour plus de détails !**
-
 ---
 
 ## 📊 Graphe de Connaissances d'Activité
